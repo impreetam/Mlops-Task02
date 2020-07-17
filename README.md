@@ -1,6 +1,6 @@
 # Mlops-Task02
 
-COMPLETE AUTOMATION ( INTEGRATION OF JENKINS , DOCKER & GIT)
+Complete Automation ( Integration of Jenkins, Docker & Git)
 
 » Following is the detailed description of the task :-
 Create container image that has jenkins installed using Dcokerfile.
